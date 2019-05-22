@@ -14,5 +14,6 @@ dependencies:
   - dask
   - seaborn
   - tqdm
-  - sklearn.decomposition
-  - sklearn.cluster
+  - pip
+  - pip:
+    - sklearn
