@@ -13,5 +13,6 @@ dependencies:
   - bokeh
   - dask
   - seaborn
-  - tdqm
-  - sklearn
+  - tqdm
+  - sklearn.decomposition
+  - sklearn.cluster
