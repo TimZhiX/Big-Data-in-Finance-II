@@ -1,7 +1,8 @@
 name: example-environment
 channels:
-  - Assignments-forge
+  - conda-forge
 dependencies:
+  - python
   - numpy
   - psutil
   - toolz
