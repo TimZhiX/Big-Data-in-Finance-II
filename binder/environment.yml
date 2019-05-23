@@ -16,8 +16,8 @@ dependencies:
   - tqdm
   - tensorflow
   - keras
-  - os
 
   - pip
   - pip:
     - sklearn
+    - os
