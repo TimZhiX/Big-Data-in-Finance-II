@@ -17,3 +17,5 @@ dependencies:
   - pip
   - pip:
     - sklearn
+    - tensorflow
+    - keras
