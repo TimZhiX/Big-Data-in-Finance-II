@@ -14,9 +14,10 @@ dependencies:
   - dask
   - seaborn
   - tqdm
+  - tensorflow
+  - keras
+  - os
+
   - pip
   - pip:
     - sklearn
-    - tensorflow
-    - keras
-    - os
