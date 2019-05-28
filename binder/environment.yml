@@ -10,6 +10,9 @@ dependencies:
   - seaborn
   - tqdm
   - keras
+  - imblearn
+  - yellowbrick
+  - warnings
 
   - pip
   - pip:
